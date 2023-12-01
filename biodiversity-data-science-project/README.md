@@ -2,7 +2,7 @@
 
 This project analyzes data on plant and animal species and the location and number of observations per species. This was a free-form Data Science project and I decided to answer the following questions with the data:
 
-- What is the distribution of conservation status for species?
+* What is the distribution of conservation status for species?
 * Are certain types of species more likely to be endangered?
 * Are the differences between species and their conservation status significant?
 * Where are sheep species most frequently sighted? (because why not)
