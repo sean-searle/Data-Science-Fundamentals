@@ -1,6 +1,6 @@
 # Analysis of Biodiversity in National Parks
 
-This project analyzes data on plant and animal species and the location and number of observations per species. This was a free-data Data Science project and I decided to answer the following questions with the data:
+This project analyzes data on plant and animal species and the location and number of observations per species. This was a free-form Data Science project and I decided to answer the following questions with the data:
 
 What is the distribution of conservation status for species?
 Are certain types of species more likely to be endangered?
