@@ -5,7 +5,7 @@ This project analyzes data on plant and animal species and the location and numb
 * What is the distribution of conservation status for species?
 * Are certain types of species more likely to be endangered?
 * Are the differences between species and their conservation status significant?
-* Where are sheep species most frequently sighted? (because why not)
+* Where are sheep species most frequently sighted?
 
 I used descriptive statistics and data visualizations to determine the following key metrics:
 
