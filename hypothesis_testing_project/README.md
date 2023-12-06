@@ -1,6 +1,6 @@
 # Hypothesis Testing: Heart Disease Variables
 
-The purpose of this project is tp take heart disease research data (from UC Irvine Machine Learning Repo) and answer a collection of questions by running hypothesis tests for the association between two variables. Some questions that are answered are:
+The purpose of this project is to take heart disease research data (from UC Irvine Machine Learning Repo) and answer a collection of questions by running hypothesis tests for the association between two variables. Some questions that are answered are:
 
 * Do people with heart disease have high cholesterol levels on average?
 * Is the proportion of patients in the data with high fasting blood sugar larger than the national average?
